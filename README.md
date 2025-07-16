@@ -9,3 +9,4 @@ Heres a detailed explanation how my model works..
   Use Gradient decendent to iterate the value of slope and y_intercept.
   
 Learned all the depth intuition about these calculation and implent them in code using numpy.
+Also performed linear regresiion with scikit learn
